@@ -1,0 +1,26 @@
+
+/* End Flex definitions */
+
+  .innerLeftMenu {
+    padding-top: 18%;
+    padding-bottom: 18%;
+    padding-left: 12%;
+    padding-right: 12%;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 4em;
+    color: #4A4A4A;
+    text-transform: uppercase;
+    background: #D8D8D8;
+}
+
+/* Should be bold gray and when moused over should light up  */
+.navItem {
+  padding-bottom: 8%;
+  
+}
+
+.lastNavItem {
+  /* No extra padding a.k.a. hacking it */
+  padding-bottom: 0%;
+}

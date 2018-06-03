@@ -1,0 +1,33 @@
+
+
+.content-header {
+  font-family: Roboto;
+  font-size: 2.5em;
+  font-weight: bold;
+  padding-top: 0%;
+  padding-left: 5%;
+  text-transform: uppercase;
+}
+
+.content-body {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: left;
+}
+
+p {
+  padding-top: 18px;
+}
+
+.content-body  a {
+  font-weight: bolder;
+}
+
+.content-body h2 {
+  font-weight: 700;
+  /* font-size: 18px; */
+}
