@@ -7,7 +7,7 @@ class Nav extends Component {
   render() {
     return (
       
-      <div classname="Nav">
+      <div className="Nav">
             <div className="innerLeftMenu">
                 <div className="navItem"><a href="./music.html">MUSIC</a></div>
                 <div className="navItem"><a href="./blog.html">BLOG</a></div>
