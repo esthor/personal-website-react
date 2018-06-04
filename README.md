@@ -1,5 +1,5 @@
-#Erik Thorelli Portfolio Site
-You can find a live version of the site (implemented in vanilla JS) here: [http://unhype.me](http://unhype.me)
+# Erik Thorelli Portfolio Site
+### You can find a live version of the site (implemented in vanilla JS) here: [http://unhype.me](http://unhype.me)
 
 
 
