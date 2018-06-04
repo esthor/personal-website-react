@@ -1,3 +1,8 @@
+#Erik Thorelli Portfolio Site
+You can find a live version of the site (implemented in vanilla JS) here: [http://unhype.me](http://unhype.me)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
