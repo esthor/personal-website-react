@@ -11,7 +11,8 @@
     font-size: 4em;
     color: #4A4A4A;
     text-transform: uppercase;
-    background: #D8D8D8;
+    /* background: #D8D8D8; */
+    background: linear-gradient(to top left, #FAFAFA, #D8D8D8);
 }
 
 /* Should be bold gray and when moused over should light up  */
