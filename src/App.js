@@ -14,7 +14,7 @@ class App extends Component {
           <div className="topLeft">
             <img src={erik} className="erik-avatar" alt="photo of Erik Thorelli" />
             <h1 className="name">Erik Thorelli</h1>
-            <p className="under-name-info">Location: <a href="https://www.yelp.com/biz/good-mong-kok-bakery-san-francisco"> San Francisco</a> | Updated 2018.06.01</p>
+            <p className="under-name-info">Location: <a href="https://www.yelp.com/biz/good-mong-kok-bakery-san-francisco" target="_blank"> San Francisco</a> | Updated 2018.06.03</p>
           </div>
           <div className="leftMenu">
           <Nav></Nav>
@@ -27,6 +27,7 @@ class App extends Component {
           </div>
         </div>
       </div>
+      <div className="footer">Made with ❤️ by Erik Thorelli   |  Copyright 2018</div>
       </div>
     );
   }
